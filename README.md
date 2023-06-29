@@ -11,8 +11,8 @@ Data drift is a problem in machine learning (ML) where characteristics of the in
 [Data Processing and Model Development Notebook](https://github.com/Pbrosten/exposome_data_drift/blob/main/ModelDev_Pipeline.ipynb)
 
 ### Drift Analysis
-[Covariate Drift Notebook](https://github.com/Pbrosten/exposome_data_drift/blob/main/ModelDev_Pipeline.ipynb)
+[Covariate Drift Notebook - Mulivariate (PCA Reconstruction) and Univariate (Distribution Comparison) Methods](https://github.com/Pbrosten/exposome_data_drift/blob/main/ModelDev_Pipeline.ipynb)
 
-[Label Drift Notebook](https://github.com/Pbrosten/exposome_data_drift/blob/main/ModelDev_Pipeline.ipynb)
+[Label Drift Notebook - Batch-wise Analysis of Diabetes Prevalence Rates](https://github.com/Pbrosten/exposome_data_drift/blob/main/ModelDev_Pipeline.ipynb)
 
-[Concept Drift Notebook](https://github.com/Pbrosten/exposome_data_drift/blob/main/ModelDev_Pipeline.ipynb)
+[Concept Drift Notebook - Direct Cohort and Temporal Comparisons of Absolute Normalized Shapley Feature Contributions](https://github.com/Pbrosten/exposome_data_drift/blob/main/ModelDev_Pipeline.ipynb)
