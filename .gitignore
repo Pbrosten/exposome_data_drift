@@ -1,3 +1,4 @@
 Data/
 Processed/
 models/fitted_models #Not provided due file size. Run ModelDev_Pipeline and set TRAIN=True to get fitted_models
+models/fitted_models
